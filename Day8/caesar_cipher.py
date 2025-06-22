@@ -1,5 +1,3 @@
-#TODO-1 Create a function called 'encrypt()' that takes 'original_text' and shift_amount as 2 inputs
-#TODO-2 Inside the 'encrypt() function, shift each letter of the original_text forward in the alphabet by the shift_amount and prints the encrypted text.
 
 import cipher_art
 
@@ -34,11 +32,5 @@ while should_continue:
     if restart == "no":
         should_continue = False
         print("good bye")
-
-
-
-#TODO-3 Create a function called 'decrypt()' that takes 'original_text' and 'shift_amount' as 2 parameters
-
-
 
 
